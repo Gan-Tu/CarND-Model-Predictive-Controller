@@ -20,11 +20,6 @@ Alternatively, if you want to watch the results of my [Behavioral Cloning Projec
 - Yellow lines are reference trajectory.
 - Green lines are predicted/planned trajectory by the car
 
-## Get the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/mpc/p10-model-predictive-controller.zip)
-
-
 ## Project Setup
 
 This project involves the Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
